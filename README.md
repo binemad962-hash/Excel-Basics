@@ -1,33 +1,27 @@
 # 📊 Excel Data Analysis Fundamentals
 
 ## 🚀 Project Overview
-Welcome to my data analysis foundational project! This repository serves as a dedicated environment for mastering **Microsoft Excel**, the gateway tool for every Data Analyst. 
-
-The goal of this project is to apply core data manipulation techniques, practice structured data handling, and build a solid foundation before moving into advanced analytics pipelines.
+Welcome to my data analysis foundational project! This repository is dedicated to mastering **Microsoft Excel** basics, tracking my technical progress and hands-on practice directly through GitHub.
 
 ---
 
-## 🎯 Technical Skills & Roadmap
+## 🎯 Skills Practice Checklist
 
-Here is the structured breakdown of the skills I am actively implementing and tracking in this project:
+Here are the exact core modules I am implementing and practicing in this project, tracked step-by-step:
 
-- [x] **Phase 1: Excel Interface & Data Types**
-  * Navigating the workspace efficiently.
-  * Ensuring strict data integrity by correctly defining text, numbers, dates, and currencies.
-- [ ] **Phase 2: Data Filtering & Sorting**
-  * Utilizing basic and advanced filters to isolate key subsets of data.
-  * Cleaning noise and organizing messy datasets for analysis.
-- [ ] **Phase 3: Cell Referencing Mastery**
-  * Implementing **Relative (`A1`)**, **Absolute (`$A$1`)**, and **Mixed (`$A1` / `A$1`)** references.
-  * Optimizing formulas for scalability across large data tables.
-- [ ] **Phase 4: Foundational Formulas (Part I)**
-  * Applying core arithmetic, conditional, and statistical functions (`SUM`, `AVERAGE`, `COUNT`, `IF`, etc.).
-  * Building dynamic summaries directly from raw datasets.
+- [ ] **Excel interface & Data types**
+  * Mastered workspace navigation and data type formatting (Text, Numbers, Dates).
+- [ ] **Filters in Excel**
+  * Implementing sorting and basic/advanced filtering to slice and analyze data.
+- [ ] **Excel reference**
+  * Mastering Relative (`A1`), Absolute (`$A$1`), and Mixed references for scalable formulas.
+- [ ] **Excel formulas Part one**
+  * Applying foundational mathematical, statistical, and logical operations.
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-├── Data_Analysis_Fundamentals.xlsx  <- Main Excel workbook containing raw & processed data.
-└── README.md                        <- Project documentation and learning progress log.
+├── Data_Analysis_Fundamentals.xlsx  <- Main Excel workbook with hands-on application.
+└── README.md                        <- Project documentation and progress log.
