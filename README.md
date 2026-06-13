@@ -1,2 +1,26 @@
-# Excel-Basics
-A training project to practice Excel basics: Interface, Data types, Filters, References, and Basic Formulas.
+# 📊 Microsoft Excel Fundamentals Project
+
+مشروع تطبيقي عملي للتدريب على أساسيات برنامج إكسيل وتحليل البيانات، وتوثيق التقدم خطوة بخطوة.
+
+---
+
+## 🎯 المهارات والمواضيع المستهدفة (Topics Covered)
+
+أقوم في هذا المشروع بتطبيق المهارات الأساسية التالية على مجموعات بيانات تجريبية:
+
+- [x] **Excel Interface & Data Types:** فهم واجهة البرنامج والتعامل مع أنواع البيانات المختلفة (Text, Number, Date, etc).
+- [ ] **Filters in Excel:** استخدام أدوات الفرز والتصفية المتقدمة لاستخراج بيانات محددة.
+- [ ] **Excel Reference:** احتراف أنواع المراجع (Absolute `$A$1` vs Relative `A1`) وتثبيت الخلايا.
+- [ ] **Excel Formulas (Part One):** تطبيق المعادلات الأساسية وتوليد المؤشرات الأولية.
+
+---
+
+## 📂 محتويات المستودع (Repository Structure)
+
+* `Data_Analysis_Fundamentals.xlsx` : ملف الإكسيل الرئيسي الذي يحتوي على التطبيق العملي والجداول.
+* `README.md` : هذا الملف لتوثيق المهارات والتقدم اليومي.
+
+---
+
+## 📈 خطة العمل والتحديثات (Progress Log)
+* **اليوم الأول:** تهيئة المستودع، واستكشاف واجهة الإكسيل (Interface) وتنظيم أنواع البيانات داخل الجدول الرئيسي.
