@@ -1,26 +1,33 @@
-# 📊 Microsoft Excel Fundamentals Project
+# 📊 Excel Data Analysis Fundamentals
 
-مشروع تطبيقي عملي للتدريب على أساسيات برنامج إكسيل وتحليل البيانات، وتوثيق التقدم خطوة بخطوة.
+## 🚀 Project Overview
+Welcome to my data analysis foundational project! This repository serves as a dedicated environment for mastering **Microsoft Excel**, the gateway tool for every Data Analyst. 
 
----
-
-## 🎯 المهارات والمواضيع المستهدفة (Topics Covered)
-
-أقوم في هذا المشروع بتطبيق المهارات الأساسية التالية على مجموعات بيانات تجريبية:
-
-- [ ] **Excel Interface & Data Types:** فهم واجهة البرنامج والتعامل مع أنواع البيانات المختلفة (Text, Number, Date, etc).
-- [ ] **Filters in Excel:** استخدام أدوات الفرز والتصفية المتقدمة لاستخراج بيانات محددة.
-- [ ] **Excel Reference:** احتراف أنواع المراجع (Absolute `$A$1` vs Relative `A1`) وتثبيت الخلايا.
-- [ ] **Excel Formulas (Part One):** تطبيق المعادلات الأساسية وتوليد المؤشرات الأولية.
+The goal of this project is to apply core data manipulation techniques, practice structured data handling, and build a solid foundation before moving into advanced analytics pipelines.
 
 ---
 
-## 📂 محتويات المستودع (Repository Structure)
+## 🎯 Technical Skills & Roadmap
 
-* `Data_Analysis_Fundamentals.xlsx` : ملف الإكسيل الرئيسي الذي يحتوي على التطبيق العملي والجداول.
-* `README.md` : هذا الملف لتوثيق المهارات والتقدم اليومي.
+Here is the structured breakdown of the skills I am actively implementing and tracking in this project:
+
+- [x] **Phase 1: Excel Interface & Data Types**
+  * Navigating the workspace efficiently.
+  * Ensuring strict data integrity by correctly defining text, numbers, dates, and currencies.
+- [ ] **Phase 2: Data Filtering & Sorting**
+  * Utilizing basic and advanced filters to isolate key subsets of data.
+  * Cleaning noise and organizing messy datasets for analysis.
+- [ ] **Phase 3: Cell Referencing Mastery**
+  * Implementing **Relative (`A1`)**, **Absolute (`$A$1`)**, and **Mixed (`$A1` / `A$1`)** references.
+  * Optimizing formulas for scalability across large data tables.
+- [ ] **Phase 4: Foundational Formulas (Part I)**
+  * Applying core arithmetic, conditional, and statistical functions (`SUM`, `AVERAGE`, `COUNT`, `IF`, etc.).
+  * Building dynamic summaries directly from raw datasets.
 
 ---
 
-## 📈 خطة العمل والتحديثات (Progress Log)
-* **اليوم الأول:** تهيئة المستودع، واستكشاف واجهة الإكسيل (Interface) وتنظيم أنواع البيانات داخل الجدول الرئيسي.
+## 📂 Repository Structure
+
+```text
+├── Data_Analysis_Fundamentals.xlsx  <- Main Excel workbook containing raw & processed data.
+└── README.md                        <- Project documentation and learning progress log.
