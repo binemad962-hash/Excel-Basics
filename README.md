@@ -10,14 +10,14 @@ Welcome to my data analysis foundational project! This repository is dedicated t
 Here are the exact core modules I am implementing and practicing in this project, tracked step-by-step:
 
 - [ ] **Excel interface & Data types**
-  * Mastered workspace navigation and data type formatting (Text, Numbers, Dates).
 - [ ] **Filters in Excel**
-  * Implementing sorting and basic/advanced filtering to slice and analyze data.
 - [ ] **Excel reference**
-  * Mastering Relative (`A1`), Absolute (`$A$1`), and Mixed references for scalable formulas.
 - [ ] **Excel formulas Part one**
-  * Applying foundational mathematical, statistical, and logical operations.
-
+- [ ] **Excel formulas Part Two**
+- [ ] **Excel formulas Part Three**
+- [ ] **Excel formulas Part Four**
+- [ ] **Conditional Formatting**
+- [ ] **Excel Macros**
 ---
 
 ## 📂 Repository Structure
