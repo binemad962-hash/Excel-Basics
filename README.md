@@ -10,7 +10,7 @@ Welcome to my data analysis foundational project! This repository is dedicated t
 Here are the exact core modules I am implementing and practicing in this project, tracked step-by-step:
 
 - [x] **Excel interface & Data types**
-- [ ] **Filters in Excel**
+- [x] **Filters in Excel**
 - [ ] **Excel reference**
 - [ ] **Excel formulas Part one**
 - [ ] **Excel formulas Part Two**
