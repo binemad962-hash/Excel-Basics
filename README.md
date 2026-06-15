@@ -11,7 +11,7 @@ Here are the exact core modules I am implementing and practicing in this project
 
 - [x] **Excel interface & Data types**
 - [x] **Filters in Excel**
-- [ ] **Excel reference**
+- [x] **Excel reference**
 - [ ] **Excel formulas Part one**
 - [ ] **Excel formulas Part Two**
 - [ ] **Excel formulas Part Three**
