@@ -12,9 +12,9 @@ Here are the exact core modules I am implementing and practicing in this project
 - [x] **Excel interface & Data types**
 - [x] **Filters in Excel**
 - [x] **Excel reference**
-- [ ] **Excel formulas Part one**
-- [ ] **Excel formulas Part Two**
-- [ ] **Excel formulas Part Three**
+- [x] **Excel formulas Part one**
+- [x] **Excel formulas Part Two**
+- [x] **Excel formulas Part Three**
 - [ ] **Excel formulas Part Four**
 - [ ] **Conditional Formatting**
 - [ ] **Excel Macros**
