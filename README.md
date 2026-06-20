@@ -15,9 +15,9 @@ Here are the exact core modules I am implementing and practicing in this project
 - [x] **Excel formulas Part one**
 - [x] **Excel formulas Part Two**
 - [x] **Excel formulas Part Three**
-- [ ] **Excel formulas Part Four**
-- [ ] **Conditional Formatting**
-- [ ] **Excel Macros**
+- [x] **Excel formulas Part Four**
+- [x] **Conditional Formatting**
+- [x] **Excel Macros**
 ---
 
 ## 📂 Repository Structure
